@@ -654,7 +654,29 @@ border-radius: 10px;
   }
   }
 
+@media (max-width:380px){
 
+  .start{
+    width: 350px;
+  }
 
+  .header{
+    width: 350px;
+  }
+  
+  .header2{
+    width: 350px;
+  }
+  
+  .header3{
+    width: 350px;
+  }
+  .header4{
+    width: 350px;
+  }
+
+}
+
+ 
 
 
